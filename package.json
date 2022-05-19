@@ -1,0 +1,15 @@
+{
+  "name": "aspect",
+  "version": "0.0.1",
+  "description": "Economy, Moderation, and more, all in one!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "AndyIsHereBoi",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
